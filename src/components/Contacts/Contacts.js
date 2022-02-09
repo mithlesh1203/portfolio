@@ -133,10 +133,10 @@ function Contacts() {
     e.preventDefault(e);
     emailjs
       .sendForm(
-        "service_jn310cg",
-        "template_rm2qpr5",
+        "service_e0lv91z",
+        "template_0oviykr",
         e.target,
-        "user_LG6mal69culCVM0XDcodG"
+        "user_q8kPDObisovg1KnsDxfP3"
       )
       .then((res) => {
         alert("Response sent. We will get back to you soon");

@@ -2,28 +2,28 @@
 export const blogData = [
     {
         id: 1,
-        title: 'Seva The Food Sharing',
-        description: 'We have made Seva The food sharing website as project of our construct week at Masai School.',
+        title: 'zoomCar-clone',
+        description: 'We have made zoomCar web application to rent two/four-wheelers on a monthly and daily basis. as project of our construct week at Masai School.',
         date: 'Nov 13, 2021',
-        image: 'https://user-images.githubusercontent.com/76626095/141648665-be7044d1-4696-44ab-9c40-24bfe527ddde.png',
-        url: 'https://medium.com/@rohitkrrt/seva-the-food-sharing-64fe51a8dccc'
+        image: 'https://miro.medium.com/max/1400/1*6tNtKeTl3nO-Ht3pcdCl5Q.png',
+        url: 'https://medium.com/geekculture/zoom-car-clone-learning-purpose-65675e5c064f'
     },
-    {
-        id: 2,
-        title: 'Purplle clone',
-        description: 'Cloning of purplle.com website in just 6 days using HTML ,CSS and JS',
-        date: 'Aug 29, 2021',
-        image: 'https://miro.medium.com/max/1400/1*raI92y3S6aFYZGna4JxPbg.png',
-        url: 'https://medium.com/@shaistasulthana78/cloning-of-purplle-com-website-in-just-6-days-using-html-css-and-js-845ce38f71cc'
-    },
-    {
-        id: 3,
-        title: 'Purplle clone using Backend',
-        description: 'purplle.com is Ecommerce website which sells cosmetic produtcs online. Through this website we can order any cosmetics related to men and women are available in the website.',
-        date: 'Oct 03, 2020',
-        image: 'https://miro.medium.com/max/1400/1*raI92y3S6aFYZGna4JxPbg.png',
-        url: 'https://medium.com/@shaistasulthana78/cloning-purplle-com-website-fda2c3f3914c'
-    },
+    // {
+    //     id: 2,
+    //     title: 'Purplle clone',
+    //     description: 'Cloning of purplle.com website in just 6 days using HTML ,CSS and JS',
+    //     date: 'Aug 29, 2021',
+    //     image: 'https://miro.medium.com/max/1400/1*raI92y3S6aFYZGna4JxPbg.png',
+    //     url: 'https://medium.com/@shaistasulthana78/cloning-of-purplle-com-website-in-just-6-days-using-html-css-and-js-845ce38f71cc'
+    // },
+    // {
+    //     id: 3,
+    //     title: 'Purplle clone using Backend',
+    //     description: 'purplle.com is Ecommerce website which sells cosmetic produtcs online. Through this website we can order any cosmetics related to men and women are available in the website.',
+    //     date: 'Oct 03, 2020',
+    //     image: 'https://miro.medium.com/max/1400/1*raI92y3S6aFYZGna4JxPbg.png',
+    //     url: 'https://medium.com/@shaistasulthana78/cloning-purplle-com-website-fda2c3f3914c'
+    // },
     // {
     //     id: 4,
     //     title: 'CHECK INTERNET SPEED FROM THE COMMAND LINE',

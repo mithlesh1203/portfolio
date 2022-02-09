@@ -3,11 +3,11 @@ export const socialsData = {
    
     linkedIn: 'https://www.linkedin.com/in/mithlesh-kumar-450a08160/',
    
-    codepen: 'https://codepen.io/rohit0796',
-    twitter: 'https://twitter.com/rht_16_',
+    codepen: 'https://codepen.io/mkmbittu',
+    twitter: 'https://twitter.com/mkmbittu',
    
-    blogger: 'https://medium.com/@rohitkrrt',
-    medium: 'https://medium.com/@rohitkrrt',
-    stackOverflow: 'https://stackoverflow.com/users/17498268/rohit-kumar',
+    blogger: 'https://medium.com/@mkmbittu',
+    medium: 'https://medium.com/@mkmbittu',
+    // stackOverflow: '',
    
 }
