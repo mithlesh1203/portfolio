@@ -8,8 +8,8 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'zoomCar-clone',
-        projectDesc: 'zoomCar is a web application to rent two/four-wheelers on a monthly and daily basis.',
-        tags: ['HTML', 'CSS', 'javaScript', 'NPM', 'hbs'],
+        projectDesc: 'ZoomCar is a web application to rent two/four-wheelers on a monthly and daily basis.',
+        tags: ['HTML', 'CSS', 'javaScript', 'NPM', 'Fetch API'],
         code: 'https://github.com/mithlesh1203/ZoomCar-clone',
         demo: 'https://zoomcar-clone-mithlesh.netlify.app/',
         image: 'https://miro.medium.com/max/1400/1*6tNtKeTl3nO-Ht3pcdCl5Q.png'
@@ -17,7 +17,7 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'kindMeal.my',
-        projectDesc: 'KindMeal.my is Malaysias leading meat-free lifestyle platform, indulging you with delicious discounted vegetarian meals at cozy environments.',
+        projectDesc: `KindMeal.my is Malaysia's leading meat-free lifestyle platform, indulging you with delicious discounted vegetarian meals at cozy environments.`,
         tags: ['HTML', 'CSS', 'javaScript'],
         code: 'https://github.com/mithlesh1203/kindmeal',
         demo: 'https://kindmeal-clone-app-mithlesh.netlify.app/',
@@ -25,7 +25,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Star wars Character',
+        projectName: 'blinkit-clone',
         projectDesc: 'This e-commerce startup platform provides a variety of daily needs products ranging from groceries, bakery items, baby care items, and many more to its customers.',
         tags: ['HTML', 'CSS', 'JavaScript','mongodb'],
         code: 'https://github.com/mithlesh1203/blinkit-Clone',

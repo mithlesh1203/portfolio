@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'mkmbittu@gmail.com',
+    email: 'mithlesh.mehta25@yahoo.com',
     phone: '+91 8239824082',
-    address: 'Patna,Biha,848203 ',
+    address: 'Patna,Bihar,848203 ',
 
     sheetAPI: ''
 }
